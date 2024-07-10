@@ -3,3 +3,4 @@ pre-commit
 async-timeout==4.0.3
 defusedxml==0.7.1
 pytest-homeassistant-custom-component==0.13.85
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
